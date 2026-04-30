@@ -1,6 +1,7 @@
 {
   "name": "aashirvad-backend",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
@@ -17,8 +17,8 @@
     "express-rate-limit": "^8.3.2",
     "jsonwebtoken": "^9.0.3",
     "mysql2": "^3.22.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
   }
-}
-"devDependencies": {
-  "vite": "^5.0.0"
 }
