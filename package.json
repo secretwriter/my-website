@@ -19,3 +19,6 @@
     "mysql2": "^3.22.2"
   }
 }
+"devDependencies": {
+  "vite": "^5.0.0"
+}
